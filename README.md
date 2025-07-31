@@ -136,10 +136,10 @@ def evaluate_model(y_true, y_pred, model_name):
     plt.show()
 
 # Evaluate Logistic Regression
-evaluate_model(y_val_meta, meta_pred_lr, "Meta-Model (Logistic Regression)")
+evaluate_model(y_val, pred_lr, "Model (Logistic Regression)")
 
 # Evaluate XGBoost
-evaluate_model(y_val_meta, meta_pred_xgb, "Meta-Model (XGBoost)")
+evaluate_model(y_val, pred_xgb, "Model (XGBoost)")
 ```
 
 **Observations:**

@@ -3,7 +3,9 @@
 This report provides a comprehensive analysis of the Jupyter Notebook **ASSESSMENT.ipynb**, which forms the basis of a machine learning project focused on Airbnb listing data. The notebook establishes an environment for data loading, preprocessing, exploratory data analysis, and model evaluation, with a particular emphasis on meta-modeling for predictive tasks. This document details the notebook’s structure, dataset, models used, feature engineering techniques, results, and recommendations for future enhancements.
 
 ---
+![Airbnb Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg)
 
+---
 ## Table of Contents
 
 1. [Notebook Structure](#notebook-structure)  

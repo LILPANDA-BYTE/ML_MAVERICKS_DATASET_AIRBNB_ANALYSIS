@@ -1,4 +1,4 @@
-# ASSESSMENT.ipynb Analysis Report
+# Analysis Report
 
 This report provides a comprehensive analysis of the Jupyter Notebook **ASSESSMENT.ipynb**, which forms the basis of a machine learning project focused on Airbnb listing data. The notebook establishes an environment for data loading, preprocessing, exploratory data analysis, and model evaluation, with a particular emphasis on meta-modeling for predictive tasks. This document details the notebook’s structure, dataset, models used, feature engineering techniques, results, and recommendations for future enhancements.
 
@@ -31,7 +31,7 @@ The notebook is organized into distinct sections, as indicated by the provided c
 | Necessary Imports              | Import required Python libraries                                        |
 | Mount Drive and Load Dataset   | Connect to Google Drive and load raw data                               |
 | Data Preview                   | Display initial rows for schema inspection                              |
-| Model Evaluation               | Evaluate meta-models (Logistic Regression, XGBoost) with performance metrics and confusion matrices |
+| Model Evaluation               | Evaluate models (e.g : Logistic Regression, XGBoost) with performance metrics and confusion matrices |
 | *Additional sections implied*  | *e.g., preprocessing, feature engineering, base model training*         |
 
 ---
@@ -268,7 +268,6 @@ Metrics computed for both meta-models:
 
 The **ASSESSMENT.ipynb** notebook establishes a solid foundation for analyzing Airbnb listing data with meta-modeling. By completing the preprocessing, expanding EDA, and finalizing model pipelines, the project will yield actionable insights for stakeholders.
 
-```
 ```
 
 

@@ -106,7 +106,6 @@ The dataset preview shows Airbnb listing data:
 
 * Mixed numerical, categorical, and text features
 * “New” ratings require preprocessing
-* Geographical focus on Turkey and Georgia
 
 ---
 

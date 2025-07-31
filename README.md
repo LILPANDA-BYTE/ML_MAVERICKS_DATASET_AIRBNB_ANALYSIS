@@ -268,6 +268,3 @@ Metrics computed for both meta-models:
 
 The **ASSESSMENT.ipynb** notebook establishes a solid foundation for analyzing Airbnb listing data with meta-modeling. By completing the preprocessing, expanding EDA, and finalizing model pipelines, the project will yield actionable insights for stakeholders.
 
-```
-
-

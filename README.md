@@ -55,16 +55,7 @@ from sklearn.metrics import (
 import warnings
 ````
 
-**Observations:**
-
-* **Data Manipulation:** `numpy` and `pandas` for handling numerical and tabular data.
-* **Visualization:** `matplotlib` and `seaborn` for plotting, used in confusion matrix visualizations.
-* **Preprocessing:** `StandardScaler` and `LabelBinarizer` for scaling numerical features and encoding categorical variables.
-* **Model Selection:** `train_test_split`, `GridSearchCV`, and `KFold` for data splitting and hyperparameter tuning.
-* **Evaluation:** Metrics like `accuracy_score`, `precision_score`, `recall_score`, `f1_score`, and `confusion_matrix` indicate a classification task.
-* **Environment:** Runs in Google Colab with GPU support, as per metadata.
-
-### 2. Mount Drive & Load Dataset
+### 2. Mount Drive & Load Dataset. Mount Drive & Load Dataset
 
 ```python
 from google.colab import drive
@@ -325,4 +316,5 @@ The **ASSESSMENT.ipynb** notebook establishes a strong foundation for analyzing 
 
 ```
 ```
+
 
